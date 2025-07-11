@@ -1,0 +1,58 @@
+[
+
+{
+    "id":1,
+    "name":"iPhone 16",
+    "price":90000,
+    "image": "images/iPhone.jpg"
+},
+
+{
+    "id":2,
+    "name":"Samsung S24",
+    "price":65000,
+    "image": "images/samsung.jpg"
+},
+
+{
+    "id":3,
+    "name":"Macbook Air Pro",
+    "price":195000,
+    "image": "images/macbook.jpg"
+},
+
+{
+    "id":4,
+    "name":"Headphone",
+    "price":10000,
+    "image": "images/headphone.jpg"
+},
+{
+    "id":1,
+    "name":"iPhone 16",
+    "price":90000,
+    "image": "images/iPhone.jpg"
+},
+
+{
+    "id":2,
+    "name":"Samsung S24",
+    "price":65000,
+    "image": "images/samsung.jpg"
+},
+
+{
+    "id":3,
+    "name":"Macbook Air Pro",
+    "price":195000,
+    "image": "images/macbook.jpg"
+},
+
+{
+    "id":4,
+    "name":"Headphone",
+    "price":10000,
+    "image": "images/headphone.jpg"
+}
+
+]
